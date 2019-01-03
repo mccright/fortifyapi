@@ -37,7 +37,7 @@ setup(
     version=version,
     description='Python library for Fortify Software Security Center (SSC) RESTFul API',
     long_description=readme,
-    author='Brandon Spruth',
+    author='Brandon Spruth,
     author_email='brandon@webbreaker.io',
     url='https://github.com/webbreaker/fortifyapi',
     download_url='https://github.com/webbreaker/fortifyapi/tarball/' + version,
