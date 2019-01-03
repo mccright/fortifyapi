@@ -1,0 +1,16 @@
+LICENSE.txt
+MANIFEST.in
+README.rst
+password.txt
+setup.cfg
+setup.py
+docs/README.md
+docs/couscous.yml
+fortifyapi/__init__.py
+fortifyapi/fortify.py
+fortifyapi.egg-info/PKG-INFO
+fortifyapi.egg-info/SOURCES.txt
+fortifyapi.egg-info/dependency_links.txt
+fortifyapi.egg-info/requires.txt
+fortifyapi.egg-info/top_level.txt
+fortifyapi.egg-info/zip-safe
